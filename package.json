@@ -2,6 +2,7 @@
   "name": "jsoncv",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://jasonleung.github.io",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
